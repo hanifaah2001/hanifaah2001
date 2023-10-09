@@ -53,8 +53,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hanifahintania/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hanifahintania/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hanifahintania#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hanifahintania#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/h.anifaah#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/h.anifaah#gh-dark-mode-only)

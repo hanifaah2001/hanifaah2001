@@ -3,18 +3,17 @@
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning SQL, Power BI and Excel
 - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: hanifahintania1@gmail.com
 
 ## Education:
 
 #### 1. [Universitas Esa Unggul](https://www.esaunggul.ac.id) | Bachelor of Computer Science | Jakarta `2019-2023`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - Fresh Graduate
+   - Information System
+   - GPA 3.84
  #### 2. [SMA Muhammadiyah 18 Jakarta](https://smamuh18jakarta.sch.id) | IPS | Jakarta `2016-2019`
-   - Chief of Rohkris
+   - IPS
 
 ## Work Experience:
 #### 1. [Universitas Esa Unggul](https://www.esaunggul.ac.id) | Assitant Lecture | Jakarta `June'2023 - Present`

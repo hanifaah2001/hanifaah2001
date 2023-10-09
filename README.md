@@ -1,4 +1,4 @@
-# Hi there, I'm Hanifah - aka Hanifah👋
+# Hi there, I'm Hanifah Intania - you can call me Hanifah👋
 ## About me:
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently learning SQL, Power BI and Excel

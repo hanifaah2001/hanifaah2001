@@ -9,11 +9,11 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Universitas Esa Unggul](https://www.esaunggul.ac.id) | Bachelor of Computer Science | Jakarta `2019-2023`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMA Muhammadiyah 18 Jakarta](https://smamuh18jakarta.sch.id) | IPS | Jakarta `2016-2019`
    - Chief of Rohkris
 
 ## Work Experience:

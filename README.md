@@ -1,11 +1,11 @@
 # Hi there, I'm Hanifah - aka Hanifah👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently learning SQL, Power BI and Excel
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: hanifahintania1@gmail.com
 
 ## Education:
 
@@ -17,14 +17,25 @@
    - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [Universitas Esa Unggul](https://www.esaunggul.ac.id) | Assitant Lecture | Jakarta `June'2023 - Present`
+   - Create UML Diagram
+   - Create Mind Map
+   - Create an Implementation of Arrangement (IA) document
+   - Create a training proposal Term of Reference (TOR)
+   - Assist lecturers' research projects
+   - Create presentation about IT courses
+   - Follow-up with inactive students
+   - Input lecturer documents
+   - Recap lecturer research finances using Excel
+   - Input thesis scores
+   - Recap attendance/scores
+   - Organize the report
+#### 2. [Sekjen MPR - RI](https:///www.mpr.go.id/) | Student Intern | Jakarta `Mei 2022 - June 2022`
+   -  Evaluate the Helpdesk system
+   -  Examine and revise documents related to government
+   -  Helping check Excel files in the form of inputting employee names
+   -  Learn the service process flow in the Helpdesk system
+   -  Learn how to use Figma tools related to Helpdesk design
 ---
 
 ### Languages and Tools:

@@ -1,6 +1,3 @@
-# MY PORT FOLIO 
-
-
 # Hi there, I'm Hanifah Intania - you can call me Hanifah👋
 ## About me:
 - 🔭 I’m currently working as Freelancer
